@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Khadija Ben Madane
-- As an ambitious data science and bioinformatics student, I believe in the power of artificial intelligence and data to drive solutions for pressing challenges across diverse fields. My focus is to leverage my skills in data science and AI to develop innovative, research-based applications that can impact lives and enhance decision-making. I am always open to collaboration on projects that push the frontiers of technology for societal benefit, aiming to make a meaningful impact through cutting-edge, AI-driven solutions.
+# 👋 Hi, I’m Khadija Ben Madane
+
+As an ambitious data science and bioinformatics student, I believe in the power of artificial intelligence and data to drive solutions for pressing challenges across diverse fields. My focus is to leverage my skills in data science and AI to develop innovative, research-based applications that can impact lives and enhance decision-making. I am always open to collaboration on projects that push the frontiers of technology for societal benefit, aiming to make a meaningful impact through cutting-edge, AI-driven solutions.
+
 ### 💡 Interests
 
 - Data Science
 - Artificial Intelligence (AI)
 - Bioinformatics
-- ### 🛠️ Skills
+
+### 🛠️ Skills
 
 - **Data Warehousing**: Talend, Power BI
 - **Machine & Deep Learning**: PyTorch, TensorFlow, Matplotlib, Pandas, Keras, Scikit-learn
@@ -17,14 +20,19 @@
 - **Computer Vision**: OpenCV, YOLO, Dlib
 - **Documentation Tools**: LaTeX, EndNote
 
+### 🌱 Learning
 
-  
-- 🌱 I’m currently learning about meta learning
-- ⚡ I'm currently working on a project for the detection of Alzheimer's disease.
+- Currently learning about meta learning.
+
+### ⚡ Current Project
+
+- Working on a project for the detection of Alzheimer's disease.
+
 ### 📫 How to reach me
 
-- **LinkedIn**: [Khadija's LinkedIn Profile](https://www.linkedin.com/in/khadija-ben-madane/) 
-- **Email**: [ton.email@example.com](mailto:khadija.benmadane@etu.uae.ac.ma)
+- **LinkedIn**: [KHADIJA BEN MADANE](https://www.linkedin.com/in/khadija-ben-madane/) 
+- **Email**: [khadija.benmadane@etu.uae.ac.ma](mailto:khadija.benmadane@etu.uae.ac.ma)
+
 
 
 <!---
